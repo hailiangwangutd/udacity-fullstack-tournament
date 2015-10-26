@@ -9,7 +9,7 @@ This project provides a Python module to rank the players and pair them up in ma
 
 To run the script, clone this repository directory. 
 
-make sure database tournament exists, if not create database by ```bashCREATE DATABASE tournament```.
+make sure database tournament exists, if not create database by ```CREATE DATABASE tournament```.
 ```bash
 vagrant@vagrant-ubuntu-trusty-32:/vagrant/tournament$ psql
 psql (9.3.5)
