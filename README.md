@@ -1,4 +1,4 @@
-# udacity-tournament-neal
+# udacity-tournament-project2
 
 ### About
 
